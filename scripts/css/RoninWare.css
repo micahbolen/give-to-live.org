@@ -1,0 +1,13 @@
+﻿body {
+}
+.bodyText
+{
+    font-weight:normal;
+    color:#000000;
+    letter-spacing:2pt;
+    word-spacing:2pt;
+    font-size:1em;
+    text-align:left;
+    font-family:verdana, sans-serif;
+    line-height:2;
+}
